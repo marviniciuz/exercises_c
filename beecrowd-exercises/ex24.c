@@ -9,7 +9,6 @@ int main()
     scanf("%d",&C);
     scanf("%d",&D);
 
-
     if (B > C && D > A && (C + D > A + B) > 0 && A % 2 ==0 )
     {
         printf("Valores aceitos\n");

@@ -24,7 +24,6 @@ int main()
     N = N % 1;
     printf("%.2f moeda(s) de R$ 1.00\n",N/0,50);
     N = N % 0,50;
-
-    
+ 
     return 0;
 }

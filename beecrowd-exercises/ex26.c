@@ -10,7 +10,6 @@ int main()
     scanf("%lf",&B);
     scanf("%lf",&C);
 
-
     if(((B * B) - 4 * A * C) < 0 || A == 0)
     {
         printf("Impossivel calcular\n");

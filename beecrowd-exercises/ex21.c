@@ -2,7 +2,6 @@
 
 int main()
 {
-
     int idade,ano,mes,dia;
 
 

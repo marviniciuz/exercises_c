@@ -10,7 +10,6 @@ float main()
     scanf("%lf",&B);
     scanf("%lf",&C);
 
-
     if (A == 0)
     {
         printf("Impossivel calcular\n");

@@ -25,6 +25,5 @@ int main()
     }
     else 
     printf("Valores nao aceitos\n");
-
     return 0;
 }
